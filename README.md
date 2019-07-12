@@ -10,4 +10,4 @@ KODI / XBMC / Firestick audio addon for the 'Freethought Radio' Freedom From Rel
 
 To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.
 
-<a href="www.ffrf.org"/><img src="http://thewashingtonstandard.com/wp-content/uploads/2016/02/FFR.jpg">https://ffrf.org/</a>
+<a href="https://github.com/leopheard/FreethoughtRadio/archive/master.zip"/><img src="http://thewashingtonstandard.com/wp-content/uploads/2016/02/FFR.jpg"></a>
