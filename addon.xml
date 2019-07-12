@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.freethoughtradio" name="Freethought Radio" version="1.0.0" provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.routing" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Freethought Radio - a podcast from Freedom From Religion Foundation</summary>
+    <description lang="en">The purposes of the Freedom From Religion Foundation, Inc., as stated in its bylaws, are to promote the constitutional principle of separation of state and church, and to educate the public on matters relating to nontheism.
+    </description>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <email>leopheard@gmail.com</email>
+    <source>https://github.com/leopheard/plugin.audio.freethoughtradio.git</source>
+    <website>https://www.ffrf.org/</website>
+    <audio_guide></audio_guide>
+        	<assets>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/fanart.jpeg</fanart>
+#			<screenshot>resources/media/screenshot1.jpg</screenshot>
+			<screenshot>resources/media/screenshot2.jpeg</screenshot>
+			<screenshot>resources/media/screenshot3.jpeg</screenshot>
+		</assets>
+  </extension>
+</addon>
