@@ -14,20 +14,18 @@
     <platform>all</platform>
     <language></language>
     <summary lang="en">Freethought Radio - a podcast from Freedom From Religion Foundation</summary>
-    <description lang="en">The purposes of the Freedom From Religion Foundation, Inc., as stated in its bylaws, are to promote the constitutional principle of separation of state and church, and to educate the public on matters relating to nontheism.
-    </description>
+    <description lang="en">The purposes of the Freedom From Religion Foundation, Inc., as stated in its bylaws, are to promote the constitutional principle of separation of state and church, and to educate the public on matters relating to nontheism.</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/plugin.audio.freethoughtradio.git</source>
+    <source>https://github.com/leopheard/FreethoughtRadio</source>
     <website>https://www.ffrf.org/</website>
-    <audio_guide></audio_guide>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
-			<fanart>resources/media/fanart.jpeg</fanart>
-#			<screenshot>resources/media/screenshot1.jpg</screenshot>
-			<screenshot>resources/media/screenshot2.jpeg</screenshot>
-			<screenshot>resources/media/screenshot3.jpeg</screenshot>
+			<fanart>resources/media/fanart.jpg</fanart>
+#			<screenshot>resources/media/1.jpg</screenshot>
+			<screenshot>resources/media/2.jpg</screenshot>
+			<screenshot>resources/media/3.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
